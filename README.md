@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku game made with python
+Sudoku game made with python using tkinter
